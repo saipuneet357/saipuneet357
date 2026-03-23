@@ -7,7 +7,7 @@ web-scale extraction pipelines, a knowledge base for RAG, semantic search,
 and model serving benchmarked across open-source and proprietary models.
 
 Previously at **CRED** on the central data platform team — 
-real-time pipelines at 500M+ events/day (Kafka, Kinesis, Databricks).
+real-time pipelines at 500M+ events/day (Kafka, Kinesis, Flink, Databricks).
 
 ---
 
