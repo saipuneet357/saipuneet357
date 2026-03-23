@@ -1,6 +1,6 @@
 ### Hi, I'm Puneet 👋
 
-I build **ML platform infrastructure** — the layer between raw data and production models.
+I build **ML platform infrastructure** the layer between raw data and production models.
 
 Currently at **Yipitdata** building the data platform behind Signals: 
 web-scale extraction pipelines, a knowledge base for RAG, semantic search, 
